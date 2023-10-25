@@ -1,0 +1,46 @@
+.bg-home {
+    background-image: url(../asset/image/2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: inherit;
+
+}
+
+.bg-home2 {
+    background-color: rgba(255, 255, 255, 0.818);
+
+}
+
+.bg-home3 {
+    background-image: url;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: inherit;
+    background-color: rgba(255, 255, 255, 0.818);
+}
+
+.img-size {
+    background-size: cover;
+}
+
+.color-1 {
+    color: rgb(9, 98, 176);
+}
+
+.product1 {
+    background-color: #dce5ee9e;
+}
+
+.bg-yllow {
+    background-color: yellow;
+}
+
+.bg-black {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.box {
+    border-color: aqua;
+}
